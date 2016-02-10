@@ -1,0 +1,40 @@
+ul {
+  color: #fff;
+}
+
+li {
+  margin: 0;
+  padding: 1rem;
+  list-style-type: none;
+  text-align: center;
+  background-color: #9a816d;
+  border: 1px solid #795437;
+  display: block;
+}
+
+a:hover {
+  background-color: #795437;
+  padding: 1rem;
+  border: 1px solid #795437;
+  padding: 1em 10em 1em 10em;
+}
+
+h1 {
+  text-align: center;
+  color: #795437;
+  font-size: 2rem;
+}
+
+body {
+  font-family: "Dosis";
+  font-weight: bold;
+  margin: 1rem;
+}
+
+html {
+	box-sizing: border-box;
+}
+
+*, *::before, *::after {
+	box-sizing: inherit;
+}
